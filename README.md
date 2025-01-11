@@ -1,8 +1,8 @@
-** Overview
+## Overview
 
 The Personal Finance project is designed to provide detailed insights into individual or household financial management. It tracks expenses, payments, and income goals, offering a comprehensive view of financial health and helping users make informed decisions. The project utilizes structured data to analyze spending patterns, highlight areas for improvement, and evaluate progress towards income targets.
 
-** Key Features
+## Key Features
 
 1. Expense Tracking:
 
@@ -30,13 +30,13 @@ Comprehensive Financial Overview:
 
 Combines data on income and expenses to provide a holistic view of financial health.
 
-** Tools Used
+## Tools Used
 
 Power BI: Utilized for data visualization to create interactive dashboards, making complex financial data accessible and actionable.
 
 Excel: Used for organizing and maintaining raw financial data with structured sheets for "Main Data" and "Income Goal."
 
-** Key Insights
+## Key Insights
 
 1. Expense Breakdown:
 
@@ -68,10 +68,10 @@ Longitudinal data enables trend analysis, revealing seasonal or periodic changes
 
 Insights into peak spending periods aid in better financial planning for future months.
 
-** Contact:
+## Contact:
 https://www.linkedin.com/in/jhanvi-aggarwal/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9gKODoPTSImxj%2BQ%2Fuoi%2B8A%3D%3D
 
-** Skills:
+## Skills:
 
 Analytical Skills, Financial Analysis, Data Analysis
 
